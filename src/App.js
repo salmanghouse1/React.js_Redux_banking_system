@@ -1,7 +1,7 @@
 
 
 import React, { Component } from 'react';
-import logo from './friedhead.svg';
+import logo from './assets/logo.png';
 import './App.css';
 import Bank from './Bank/Bank'
 import { connect } from 'react-redux';
@@ -20,9 +20,7 @@ render() {
       <div className="App">
 
       <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1>30 days of React</h1>
-          <h2>Day Twenty Five / Redux Bank</h2>
+          <img src={logo}></img><h1>BANKING</h1>
       </header>
 
       <h1>Balance: {this.props.balance}</h1>

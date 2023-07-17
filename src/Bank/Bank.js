@@ -10,7 +10,7 @@ class Bank extends React.Component {
   return (
 
     <div className="bank">    
-        <h2>Bank</h2>
+      
 
   {/* Deposit Input */}
       <label>
