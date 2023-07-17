@@ -2,6 +2,8 @@
 
 Follow up on my intro to Redux, a banking app wher you can deposit or withdraw money, and which logs your banking acivity.
 
+Changed the front end, 
+
 **Concepts Explored:** 
 
 - Passing a payload with Redux + React
